@@ -14,6 +14,7 @@
 			"showPanel": true
 		},
 		"sync-settings": {
+			"hiddenSettings": {},
 			"onlySyncCommunityPackages": true,
 			"useOtherLocation": true
 		},
