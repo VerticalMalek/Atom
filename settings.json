@@ -5,15 +5,18 @@
 			"uriHandlerRegistration": "always"
 		},
 		"editor": {
+			"fontSize": 13,
 			"softWrap": true
 		},
 		"exception-reporting": {
 			"userId": "3fa18b13-b08e-4e3a-ad46-59b2d6757bdc"
 		},
 		"linter-ui-default": {
+			"panelHeight": 98,
 			"showPanel": true
 		},
 		"sync-settings": {
+			"checkForUpdatedBackup": false,
 			"hiddenSettings": {},
 			"onlySyncCommunityPackages": true,
 			"useOtherLocation": true
